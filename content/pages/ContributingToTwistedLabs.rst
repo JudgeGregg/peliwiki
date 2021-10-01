@@ -20,7 +20,7 @@ Overview
 
 * `Submitting a Patch <{filename}/pages/Twisted/TwistedDevelopment.rst#submitting-a-patch>`_, a simplified overview
 * `Detailed Contribution Requirements <{filename}/pages/Twisted/TwistedDevelopment.rst>`_, with that and more
-* `Review Process <{filename}/pages/ReviewProcess.rst>`_, how contributed code is quality checked and reviewed 
+* `Review Process <{filename}/pages/ReviewProcess.rst>`_, how contributed code is quality checked and reviewed
 * `Checklist for Twisted committers <{filename}/pages/CommitterCheckList.rst>`_, things that developers with commit access should know
 
 
